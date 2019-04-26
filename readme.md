@@ -27,9 +27,9 @@ $ composer install --prefer-dist
 ```
 $ php artisan key:generate
 ```
-8. Run these commands to create the tables within the defined database and populate seed data
+8. Run these commands to create the tables within the defined database 
 ```
-$ php artisan migrate --seed
+$ php artisan migrate 
 ```
 
 ## Run
