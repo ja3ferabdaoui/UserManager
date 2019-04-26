@@ -21,7 +21,7 @@ $ cp .env.example .env
 ```
 6. Install composer dependencies
 ```
-$ composer install --prefer-dist
+$ composer install 
 ```
 7. An application key can be generated with the command
 ```
